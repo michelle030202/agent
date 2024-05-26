@@ -1,9 +1,0 @@
-pytest
-pytest-asyncio
-pydantic
-aiohttp
-psutil
-docopt
-fastapi
-uvicorn
-requests
